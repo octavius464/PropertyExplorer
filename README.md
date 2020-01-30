@@ -15,8 +15,9 @@ Download this model from Stanford CoreNLP.
 **Welcome Panel** </br>
 ![GitHub Logo](/images/welcome_panel.png)
 
-**Map Panel**
+**Data Visualization Panel**
 ![GitHub Logo](/images/map_panel.png)
+![GitHub Logo](/images/data_visualization_panel.png)
 
 **Statistics Panel**
 ![GitHub Logo](/images/statistics_panel.png)
