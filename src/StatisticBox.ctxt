@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=StatisticBox
+comment0.text=\r\n\ Individual\ statistics\ box\ which\ displays\ a\ statistic.\r\n\r\n\ @author\ Alex,\ Ans,\ Sarosh\r\n\ @version\ 28.03.2018\r\n
+comment1.params=
+comment1.target=StatisticBox()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StatisticBox\r\n
+comment2.params=
+comment2.target=javafx.scene.layout.BorderPane\ getPanel()
+comment3.params=
+comment3.target=void\ rightButtonClick()
+comment3.text=\r\n\ When\ right\ button\ is\ clicked\r\n\ current\ statistic\ is\ added\ to\ front\ of\ queue.\r\n\ statistic\ is\ taken\ from\ the\ back\ of\ queue.\r\n\ Statistic\ is\ updated.\r\n
+comment4.params=
+comment4.target=void\ leftButtonClick()
+comment4.text=\r\n\ When\ left\ button\ is\ clicked\r\n\ current\ statistic\ is\ added\ to\ back\ of\ queue.\r\n\ statistic\ is\ taken\ from\ the\ front\ of\ queue.\r\n\ Statistic\ is\ updated.\r\n
+comment5.params=
+comment5.target=void\ updateStatistics()
+comment5.text=\r\n\ statistic\ is\ updated.\r\n
+numComments=6

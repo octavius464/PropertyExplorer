@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PropertyExplorer
+comment0.text=\r\n\ Main\ window\ which\ holds\ the\ different\ panels.\r\n\r\n\ @author\ Alexander\ Davis\r\n\ @version\ 28.03.2018\r\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+numComments=2

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CurrentListings
+comment0.text=\r\n\ Class\ to\ keep\ track\ of\ the\ current\ listings\ which\ change\ based\ on\ the\ price\ range\ chosen.\r\n\ Static\ so\ an\ instance\ is\ not\ needed.\r\n\ Created\ by\ k1761218\ on\ 13/03/18.\r\n
+comment1.params=
+comment1.target=CurrentListings()
+comment2.params=
+comment2.target=java.util.ArrayList\ getCurrentListings()
+comment2.text=\r\n\ @throws\ PriceRangeNotSetException\ if\ panels\ try\ to\ use\ data\ before\ data\ is\ available.\r\n\ \ \ \ \ \ \ \ \ \ Listings\ should\ not\ be\ empty\ when\ this\ method\ is\ called.\r\n\ @return\ ArrayList\ of\ current\ listings\ based\ on\ price\ range\ selected\ by\ user.\r\n
+comment3.params=newMin
+comment3.target=void\ setMinimumPrice(int)
+comment3.text=\r\n\ @param\ newMin\ integer\ of\ new\ minimum\ price\ to\ set.\r\n
+comment4.params=newMax
+comment4.target=void\ setMaximumPrice(int)
+comment4.text=\r\n\ @param\ newMax\ \ integer\ of\ new\ maximum\ price\ to\ set.\r\n
+comment5.params=
+comment5.target=int\ getMinimumPrice()
+comment5.text=\r\n\ @return\ Current\ minimum\ price\ set.\r\n\ @throws\ PriceRangeNotSetException\ if\ the\ price\ range\ has\ not\ yet\ been\ chosen.\r\n
+comment6.params=
+comment6.target=int\ getMaximumPrice()
+comment6.text=\r\n\ @return\ Current\ maximum\ price\ set.\r\n\ @throws\ PriceRangeNotSetException\ if\ the\ price\ range\ has\ not\ yet\ been\ chosen.\r\n
+numComments=7

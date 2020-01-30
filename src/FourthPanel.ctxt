@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=FourthPanel
+comment0.text=\r\n\ This\ panel\ uses\ sentiment\ analysis\ to\ analyse\ the\ reviews\ of\ a\ airbnbListing\ that\ the\ user\r\n\ picks\ from\ the\ list\ of\ airbnb\ listings\ of\ a\ specific\ price\ range,\ and\ shows\r\n\ the\ sentiment\ score\ in\ terms\ of\ the\ number\ of\ smiley\ faces\ and\ displays\r\n\ the\ review\ and\ image\ of\ this\ item\ on\ the\ information\ panel\ of\ the\ right\ hand\ side.\r\n\ @author\ Alexander\ Davis,\ Sarosh\ Habib\r\n\ @version\ 29.03.2018\r\n
+comment1.params=
+comment1.target=FourthPanel()
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ This\ update\ method\ updates\ the\ list\ of\ current\ listings\ shown\ to\ the\ user\ according\r\n\ to\ the\ price\ range\ specified.\r\n
+comment3.params=
+comment3.target=javafx.scene.layout.GridPane\ getPanel()
+comment3.text=\r\n\r\n\ @return\ this\ panel\r\n
+comment4.params=smilyBox\ text
+comment4.target=void\ addSmilyFace(javafx.scene.layout.HBox,\ java.lang.String)
+comment4.text=\r\n\ Add\ the\ number\ of\ smiley\ size\ according\ to\ the\ sentiment\ score\ analysed\ to\ a\ HBox,\ and\r\n\ will\ be\ displayed\ to\ the\ user.\ The\ maximum\ indicating\ the\ most\ positive\ is\ 5\ smiley\ faces\r\n\ and\ 1\ smiley\ face\ for\ the\ least\ positive\ text.\r\n\ @param\ smilyBox\r\n\ @param\ text\r\n
+comment5.params=
+comment5.target=void\ panelSetUp()
+comment5.text=\r\n\ Set\ up\ the\ lay\ out\ of\ the\ panel.\r\n
+numComments=6

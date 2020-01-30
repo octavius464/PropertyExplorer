@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StatisticsTest
+comment0.text=\r\n\ The\ test\ class\ for\ Statistics\r\n\r\n\ @author\ \ Alexander\ Davis\r\n\ @version\ 29.03.2018\r\n
+comment1.params=
+comment1.target=StatisticsTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ StatisticsTest\r\n
+comment2.params=
+comment2.target=void\ testStatistic1()
+comment2.text=\r\n\ Tests\ Average\ number\ of\ reviews\ per\ property.\r\n
+comment3.params=
+comment3.target=void\ testStatistic2()
+comment3.text=\r\n\ Tests\ Total\ number\ of\ available\ properties.\r\n
+comment4.params=
+comment4.target=void\ testStatistic3()
+comment4.text=\r\n\ Tests\ total\ number\ of\ available\ entire\ homes\ and\ apartments.\r\n
+comment5.params=
+comment5.target=void\ testStatistic4()
+comment5.text=\r\n\ Tests\ the\ priciest\ neighbourhood.\r\n
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StatisticsPanel
+comment0.text=\r\n\ Displays\ statistics\r\n\ @author\ Alexander,\ Sarosh,\ Ans\r\n\ @version\ 28.03.2018\r\n
+comment1.params=
+comment1.target=StatisticsPanel()
+comment2.params=
+comment2.target=javafx.scene.layout.GridPane\ getPanel()
+comment3.params=
+comment3.target=void\ panelSetUp()
+comment4.params=
+comment4.target=void\ update()
+comment4.text=\r\n\ \ When\ the\ price\ range\ is\ changed\ updateStatistics()\ method\r\n\ \ is\ called\ on\ the\ statistics\ boxes.\r\n\ \ This\ means\ only\ the\ displayed\ statistics\ are\ updated\ which\ is\ all\ that\ is\ necessary.\r\n
+numComments=5

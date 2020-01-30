@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PriceRangeNotSetException
+comment1.params=
+comment1.target=PriceRangeNotSetException()
+comment2.params=cause
+comment2.target=PriceRangeNotSetException(java.lang.String)
+numComments=3

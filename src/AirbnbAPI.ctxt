@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AirbnbAPI
+comment0.text=\r\n\ Where\ API\ calls\ are\ made\ to\ external\ services.\r\n\ Everything\ is\ static\ as\ this\ is\ a\ utility\ class.\r\n\r\n\ @author\ Alexander\ Davis\r\n\ @version\ 28.03.2018\r\n
+comment1.params=id
+comment1.target=java.util.List\ getReviewComments(java.lang.String)
+comment1.text=\r\n\r\n\ @param\ id\ of\ listing\ to\ get\ reviews\ for.\r\n\ @return\ List\ of\ reviews\ for\ given\ listing.\r\n\ @throws\ Exception\ if\ no\ reviews\ are\ found/listing\ not\ available.\r\n
+comment2.params=id
+comment2.target=javafx.scene.image.Image\ getListingImage(java.lang.String)
+comment2.text=\r\n\r\n\ @param\ id\ of\ listing\ to\ get\ image\ for.\r\n\ @return\ Image\ object\ of\ image\ of\ listing\ given\r\n\ @throws\ Exception\ if\ no\ image\ found.\r\n
+comment3.params=listings
+comment3.target=java.lang.String\ getAverageTransitTime(java.util.ArrayList)
+comment3.text=\r\n\ @param\ listings\ listings\ to\ test.\r\n\ @return\ average\ transit\ time\ in\ minutes\ for\ first\ 5\ of\ chosen\ listings.\r\n\ @throws\ Exception\ if\ network\ error\ occurs.\r\n
+comment4.params=urlToRead
+comment4.target=java.lang.String\ getHTTP(java.lang.String)
+comment4.text=\r\n\r\n\ @param\ urlToRead\ url\ to\ get\ JSON\ file\ from.\r\n\ @return\ string\ with\ json.\r\n\ @throws\ Exception\ if\ httpconnection\ error\ occurs.\r\n
+comment5.params=urlToRead
+comment5.target=java.lang.String\ getHTTPS(java.lang.String)
+comment5.text=\r\n\r\n\ @param\ urlToRead\ url\ to\ get\ json\ file\ for.\r\n\ @return\ string\ with\ json.\r\n\ @throws\ Exception\ if\ https\ error\ occurs.\r\n
+numComments=6

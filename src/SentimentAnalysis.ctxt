@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SentimentAnalysis
+comment0.text=\r\n\ This\ class\ uses\ the\ Stanford\ NLP\ library\ and\ analyse\ the\ sentiment\ of\ a\ text.\r\n\ @author\ \ Sarosh\r\n\ @version\ 29.03.2018\r\n
+comment1.params=
+comment1.target=SentimentAnalysis()
+comment2.params=text
+comment2.target=int\ analyseText(java.lang.String)
+comment2.text=\r\n\ Analyse\ a\ text\ regarding\ its\ sentiment,\ and\ give\ a\ score\ based\ on\ the\ sentiment.\r\n\ The\ score\ is\ evaluated\ by\ picking\ the\ highest\ score\ from\ one\ sentence.\ It\ has\ flaws\ but\r\n\ other\ metrics\ also\ have\ theirs,\ so\ we\ decide\ to\ use\ this\ metric.\r\n\ @param\ text\ to\ be\ evaluated\ for\ its\ sentiment.\r\n\ @return\ an\ average\ score\ of\ sentiment\ of\ the\ text\r\n
+numComments=3

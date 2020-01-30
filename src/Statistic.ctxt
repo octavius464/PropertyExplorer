@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Statistic
+comment0.text=\r\n\ @author\ Alex,\ Ans,\ Sarosh\r\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getStatistics()
+comment1.text=\r\n\ Only\ called\ once\ in\ Statistic\ box.\r\n\ @return\ list\ of\ statistics\ objects.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment2.text=\r\n\ @return\ Statistic\ title.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCurrentStatistic()
+comment3.text=\r\n\ updates\ the\ statistic\ and\ returns\ the\ statistic\ value.\r\n\ @return\ String\ with\ current\ statistic\ value.\r\n
+comment4.params=
+comment4.target=java.lang.String\ updateStatistic()
+comment4.text=\r\n\ Where\ statistic\ logic\ occurs.\r\n
+numComments=5

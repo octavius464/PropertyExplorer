@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=PropertyExplorerController
+comment0.text=\r\n\ Controller\ for\ the\ Property\ Explorer.\ Defines\ the\ logic\ of\ the\ GUI\ elements.\r\n\r\n\ @author\ Alex,\ Sarosh\r\n\ @version\ 28.03.2018\r\n
+comment1.params=location\ resources
+comment1.target=void\ initialize(java.net.URL,\ java.util.ResourceBundle)
+comment1.text=\r\n\ Called\ when\ the\ program\ starts\ and\ GUI\ elements\ are\ loaded.\r\n
+comment2.params=string
+comment2.target=java.lang.Number\ fromString(java.lang.String)
+comment3.params=object
+comment3.target=java.lang.String\ toString(java.lang.Number)
+comment4.params=
+comment4.target=void\ updateCurrentPanel()
+comment4.text=\r\n\ Sets\ the\ current\ panel\ shown\ to\ the\ current\ panel\ index.\r\n\ Updates\ the\ current\ panel\ label.\r\n\ Calls\ update()\ on\ the\ new\ panel.\r\n
+comment5.params=
+comment5.target=void\ leftButtonClick()
+comment5.text=\r\n\ When\ left\ button\ clicked\ decrease\ the\ currentPanelIndex.\r\n\ disables\ left\ button\ if\ reaches\ the\ 0th\ element\ in\ the\ panel\ index.\r\n\ Updates\ the\ new\ panel.\r\n
+comment6.params=
+comment6.target=void\ rightButtonClick()
+comment6.text=\r\n\ When\ right\ button\ clicked\ increment\ the\ currentPanelIndex.\r\n\ disables\ right\ button\ if\ reaches\ the\ maximum\ element\ in\ the\ panel\ index.\r\n\ Updates\ the\ new\ panel.\r\n
+comment7.params=
+comment7.target=void\ createPriceSliderListeners()
+comment7.text=\r\n\ Creates\ listeners\ for\ the\ price\ range\ slider\ knobs.\r\n\ Enables\ left\ and\ right\ buttons\ when\ both\ price\ knobs\ have\ been\ chosen.\r\n\ current\ panel\ update()\ method\ called\ when\ price\ range\ changed.\r\n
+numComments=8

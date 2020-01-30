@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=NeighborhoodPopup
+comment0.text=\r\n\ Displays\ the\ selected\ properties\r\n
+comment1.params=catalogue
+comment1.target=NeighborhoodPopup(java.util.List)
+comment1.text=\r\n\ constructs\ by\ a\ catalogue\r\n\ @param\ catalogue\ list\ of\ properties\ to\ display,\ program\ logic\ assumes\ that\ they\ are\ all\ from\ the\ same\ neighborhood\r\n
+comment2.params=primaryStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=
+comment3.target=void\ setUpTable()
+comment3.text=\r\n\ This\ method\ sets\ up\ the\ columns\ of\ the\ table\ and\ populate\ the\ table\ with\ currentListing\r\n
+comment4.params=
+comment4.target=void\ comboBoxBehaviourSetUp()
+comment4.text=\r\n\ This\ method\ adds\ the\ behaviour\ of\ the\ combo\ box\ so\ that\ it\ can\ sort\ the\ table\ when\ one\ of\ its\ item\ is\ click.\r\n
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CurrentListingsTest
+comment0.text=\r\n\ The\ test\ class\ for\ CurrentListings.\r\n\r\n\ @author\ \ Alexander\ Davis\r\n\ @version\ 29.03.2018\r\n
+comment1.params=
+comment1.target=CurrentListingsTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ CurrentListingsTest\r\n
+comment2.params=
+comment2.target=void\ minimumPriceIsSet()
+comment2.text=\r\n\ Tests\ that\ the\ minimum\ price\ is\ set\ correctly.\r\n
+comment3.params=
+comment3.target=void\ maximumPriceIsSet()
+comment3.text=\r\n\ Tests\ that\ the\ maximum\ price\ is\ set\ correctly\r\n\ in\ that\ the\ max\ price\ is\ set\ to\ the\ highest\ price\r\n\ in\ the\ current\ listings\ if\ max\ is\ set\ to\ 500.\r\n
+comment4.params=
+comment4.target=void\ allListingsPresent()
+comment4.text=\r\n\ Tests\ that\ all\ the\ example\ listings\ are\ returned\ when\ range\ is\ at\ maximum.\r\n
+comment5.params=
+comment5.target=void\ lowestPriceReturnsRightValues()
+comment5.text=\r\n\ Tests\ that\ the\ list\ filtering\ logic\ works\ correctly.\r\n\ The\ lowest\ price\ is\ \u00A38\ for\ which\ there\ are\ 2\ properties.\r\n
+numComments=6
