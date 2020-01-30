@@ -13,7 +13,7 @@ Download this model from Stanford CoreNLP.
 [Model](https://stanfordnlp.github.io/CoreNLP/index.html#download)
 
 **Welcome Panel** </br>
-![GitHub Logo](/images/welcome_panel.png)
+![GitHub Logo](/images/welcome.png)
 
 **Data Visualization Panel**
 ![GitHub Logo](/images/map_panel.png)
